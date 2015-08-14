@@ -212,12 +212,12 @@ ENABLE_LTO := true
 Link_Time_Optimizations := true
 TARGET_USE_ION_COMPAT := true
 TARGET_USE_KRAIT_PLD_SET := true
-TARGET_TC_ROM := 4.9-linaro
-TARGET_TC_KERNEL := 4.9-linaro
+TARGET_TC_ROM := 5.1-linaro
+TARGET_TC_KERNEL := 5.1-linaro
 TARGET_GCC_VERSION_EXP := $(TARGET_TC_ROM)
 TARGET_KERNEL_CUSTOM_TOOLCHAIN := $(TARGET_TC_KERNEL)
 TARGET_ENABLE_UKM := true
 
-WITH_LZMA_OTA := true
+
 #SaberMod
 -include vendor/bliss/config/sm.mk
