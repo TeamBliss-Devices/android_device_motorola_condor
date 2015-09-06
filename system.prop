@@ -1,4 +1,6 @@
 # system.prop for msm8610
+ro.product.device=condor
+ro.product.model=condor
 #
 
 # Use reference RIL for initial bringup
