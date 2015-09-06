@@ -13,13 +13,13 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="screen_gestures_panel_title">Gesturi</string>
-  <string name="screen_gestures_panel_summary">Utilizați gesturi pentru a efectua acțiuni</string>
-  <string name="ambient_display_title">Afișare ambientală</string>
-  <string name="ambient_display_enable_title">Afișare ambientală</string>
-  <string name="ambient_display_enable_summary">Trezește ecran când primiți notificări</string>
-  <string name="hand_wave_gesture_title">Unduire mână</string>
-  <string name="hand_wave_gesture_summary">Pulsează notificările la unduirea mâinii</string>
-  <string name="pocket_gesture_title">Buzunar</string>
-  <string name="pocket_gesture_summary">Pulsează notificările la scoaterea din buzunar</string>
+  <string name="screen_gestures_panel_title">Gestos</string>
+  <string name="screen_gestures_panel_summary">Utilizar gestos para realizar acciones</string>
+  <string name="ambient_display_title">Pantalla ambiente</string>
+  <string name="ambient_display_enable_title">Pantalla ambiente</string>
+  <string name="ambient_display_enable_summary">Activar la pantalla cuando se reciben notificaciones</string>
+  <string name="hand_wave_gesture_title">Agitar con la mano</string>
+  <string name="hand_wave_gesture_summary">Lanzar notificaciones cuando se agite con la mano</string>
+  <string name="pocket_gesture_title">Bolsillo</string>
+  <string name="pocket_gesture_summary">Lanzar notificaciones cuando se saque del bolsillo</string>
 </resources>
