@@ -82,6 +82,7 @@ MAX_EGL_CACHE_SIZE := 2048*1024
 
 # Wifi
 BOARD_HAS_QCOM_WLAN := true
+BOARD_HAS_QCOM_WLAN_SDK := true
 BOARD_WLAN_DEVICE := qcwcn
 BOARD_HOSTAPD_DRIVER := NL80211
 BOARD_HOSTAPD_PRIVATE_LIB := lib_driver_cmd_qcwcn
@@ -159,7 +160,6 @@ BOARD_SEPOLICY_DIRS += \
 BOARD_SEPOLICY_UNION += \
     atvc.te \
     batt_health.te \
-    bootanim.te \
     device.te \
     file.te \
     file_contexts \
